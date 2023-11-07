@@ -19,6 +19,11 @@
 /*                                                                   */
 
 /* ***************************************************************** */
+.p[style="title"]{
+	color:#b30000;
+	font-weight: bold;
+
+
 .term {
 	background-color: coral;
 }
