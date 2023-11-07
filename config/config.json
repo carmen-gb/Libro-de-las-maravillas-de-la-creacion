@@ -34,7 +34,7 @@
             "label": "IMAGE_TEXT",
             "icon": "mode-imgTxt",
             "viewMode": "imgTxt",
-            "visible": false
+            "visible": true
         },
         {
             "label": "TEXT_TEXT",
@@ -52,7 +52,7 @@
             "label": "SOURCE_TEXT",
             "icon": "mode-srcTxt",
             "viewMode": "srcTxt",
-            "visible": true
+            "visible": false
         },
         {
             "label"    : "3DHOP",
