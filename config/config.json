@@ -1,12 +1,12 @@
 {
-    "indexTitle": "Edizione Logica Avicennae [experimental encoding]",
+    "indexTitle": "Libro de las maravillas de la creación [Kitāb ʿAǧāʾib al-maḫlūqāt wa-ġarāʾib al-mauǧūdāt]",
     "webSite": "",
     "logoUrl": "",
     
-    "dataUrl": "data/text/avicenna.xml",
-    "sourcesUrl": "data/text/sources.xml",
-    "analoguesUrl": "data/text/analogues.xml",
-    "sourcesTextsUrl": "data/text/sources/",
+    "dataUrl": "data/text/facsimil_BSBArab464.xml",
+    "sourcesUrl": "",
+    "analoguesUrl": "",
+    "sourcesTextsUrl": "",
     "singleImagesUrl": "",
     "enableXMLdownload": true,
     
@@ -22,13 +22,13 @@
             "label": "READING_TEXT",
             "icon": "reading-txt",
             "viewMode": "readingTxt",
-            "visible": true
+            "visible": false
         },
         {
             "label": "MULTIPLE_RECENSIONS",
             "icon": "mode-versions",
             "viewMode": "versions",
-            "visible": true
+            "visible": false
         },
         {
             "label": "IMAGE_TEXT",
@@ -46,7 +46,7 @@
             "label": "COLLATION",
             "icon": "mode-collation",
             "viewMode": "collation",
-            "visible": true
+            "visible": false
         },
         {
             "label": "SOURCE_TEXT",
@@ -62,26 +62,26 @@
         }
     ],
 
-    "defaultEdition": "critical",
+    "defaultEdition": "interpretative",
     "showEditionLevelSelector": true,
     "availableEditionLevel": [
         {
             "value": "critical",
             "label": "Critical",
-            "title": "Critical edition",
-            "visible": true
+            "title": "Edición crítica",
+            "visible": false
         },
         {
             "value": "diplomatic",
             "label": "Diplomatic",
-            "title": "Diplomatic edition",
+            "title": "Edición diplomática",
             "visible": false
         },
         {
             "value": "interpretative",
             "label": "Interpretative",
-            "title": "Interpretative edition",
-            "visible": false
+            "title": "Edición interpretativa",
+            "visible": true
         }
     ],
     
@@ -98,17 +98,17 @@
     "namedEntitiesToHandle": [
         {
             "tagName": "persName",
-            "label": "Persons",
+            "label": "Personas",
             "available": true
         },
         {
             "tagName": "placeName",
-            "label": "Places",
+            "label": "Lugares",
             "available": true
         },
         {
             "tagName": "orgName",
-            "label": "Organizations",
+            "label": "Organizaciones",
             "available": true
         }
     ],
@@ -116,7 +116,7 @@
         {
             "tagName": "rolename",
             "label": "Role Name",
-            "available": false,
+            "available": true,
             "color": "#cfc"
         },
         {
@@ -235,8 +235,9 @@
     "imageNormalizationCoefficient": 1265,
 
     "languages": [
-        "en",
-        "it"
+        "es",
+        "arb",
+        "en"
     ],
     "showObjectSelector": true,
 
