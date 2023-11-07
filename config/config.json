@@ -238,7 +238,7 @@
         "es",
         "en"
     ],
-    "showObjectSelector": true,
+    "showObjectSelector": false,
 
     "tdhopViewerOptions": {
 
