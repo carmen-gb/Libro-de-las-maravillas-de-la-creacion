@@ -8,7 +8,8 @@
             <author xml:id="ZaQ">Zakariya al-Qazwini</author>
             <respStmt>
                <resp>Transcripción y anotación en TEI de </resp>
-               <name xml:id="PDG">Patricia Díaz Gallego</name><p>y</p>
+               <name xml:id="PDG">Patricia Díaz Gallego</name>
+               <p>y</p>
                <name xml:id="AGE">Arturo Guerrero Enterría</name>
             </respStmt>
             <respStmt>
