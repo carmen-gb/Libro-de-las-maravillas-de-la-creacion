@@ -63,7 +63,7 @@
     ],
 
     "defaultEdition": "interpretative",
-    "showEditionLevelSelector": true,
+    "showEditionLevelSelector": false,
     "availableEditionLevel": [
         {
             "value": "critical",
@@ -91,7 +91,7 @@
     "thumbnailsButton": false,
     "viscollButton": false,
 
-    "toolPinAppEntries": true,
+    "toolPinAppEntries": false,
     "toolImageTextLinking": true,
 
     "namedEntitiesSelector": false,
@@ -163,7 +163,7 @@
     "showInlineAnalogues": false,
     "showReadingExponent": true,
 
-    "toolHeatMap": true,
+    "toolHeatMap": false,
 
     "versions": [
         "rec2",
