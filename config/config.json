@@ -16,7 +16,7 @@
     "visCollImageList": "",
     "visCollDataModel": "",
 
-    "defaultViewMode": "readingTxt",
+    "defaultViewMode": "imgTxt",
     "availableViewModes": [
         {
             "label": "READING_TEXT",
@@ -69,13 +69,13 @@
             "value": "critical",
             "label": "Critical",
             "title": "Edición crítica",
-            "visible": false
+            "visible": true
         },
         {
             "value": "diplomatic",
             "label": "Diplomatic",
             "title": "Edición diplomática",
-            "visible": false
+            "visible": true
         },
         {
             "value": "interpretative",
@@ -86,7 +86,7 @@
     ],
     
     "showDocumentSelector": false,
-    "enableNavBar": false,
+    "enableNavBar": true,
     "initNavBarOpened": false,
     "thumbnailsButton": false,
     "viscollButton": false,
