@@ -2618,8 +2618,8 @@
       <body>
          <div n="de l" type="Transcripción" xml:id="BSBArab464_transcr">
             <pb n="BSB Arab. 464, f. 1r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00006/full/pct:50/0/default.jpg" xml:id="BSBArab464_f001r"/>
-            <p style="title">título de la imagen</p>
-            <p>texto</p>
+            <p style="title">Título del libro</p>
+            <p>Banderola con el título del libro en letras negras. Se utiliza el fondo para generar la decoración, consistente en ramas, en positivo, y su fondo negativo en tinta negra.</p>
             <pb n="BSB Arab. 464, f. 1v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00007/full/pct:50/0/default.jpg" xml:id="BSBArab464_f001v"/>
             <p style="title">título de la imagen</p>
             <p>texto</p>
