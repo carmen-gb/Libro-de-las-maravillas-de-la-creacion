@@ -11,11 +11,12 @@
                <name xml:id="PDG">Patricia Díaz Gallego</name>
                <resp> y </resp>
                <name xml:id="AGE">Arturo Guerrero Enterría</name>
+               <orgName>(ILC, CSIC)</orgName>
             </respStmt>
             <respStmt>
                <resp>Descripción de las imágenes de </resp>
-               <name xml:id="xxx">Nombre Apellido Apellido</name>
-               <orgName>Colegio El Porvenir</orgName>
+               <name xml:id="xxx">Nombre Apellido Apellido; </name>
+               <orgName>(Colegio El Porvenir)</orgName>
             </respStmt>
          </titleStmt>
          <editionStmt>
