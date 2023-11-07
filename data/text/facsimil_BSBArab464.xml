@@ -8,7 +8,7 @@
             <author xml:id="ZaQ">Zakariya al-Qazwini</author>
             <respStmt>
                <resp>Transcripción y anotación en TEI de </resp>
-               <name xml:id="PDG">Patricia Díaz Gallego</name>
+               <name xml:id="PDG">Patricia Díaz Gallego</name><p>y</p>
                <name xml:id="AGE">Arturo Guerrero Enterría</name>
             </respStmt>
             <respStmt>
@@ -20,7 +20,7 @@
          <editionStmt>
             <edition n="1">
                <title>Versión electrónica enriquecida con marcado semántico con TEI.</title>
-               <date when="2022">2023</date>
+               <date when="2023">2023</date>
             </edition>
          </editionStmt>
          <publicationStmt>
