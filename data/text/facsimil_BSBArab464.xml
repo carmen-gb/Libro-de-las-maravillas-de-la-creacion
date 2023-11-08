@@ -14,7 +14,13 @@
             </respStmt>
             <respStmt>
                <resp>Descripción de las imágenes de </resp>
-               <name xml:id="xxx">Nombre Apellido Apellido</name>
+               <name xml:id="xxx">Andrés Urdiales </name>
+               <name xml:id="xxx">Carlota Quintana </name>
+               <name xml:id="xxx">Claudia Velasco </name>
+               <name xml:id="xxx">Olga Leal </name>
+               <name xml:id="xxx">Lucía Martínez </name>
+               <name xml:id="xxx">Noemi Quezada </name>     
+               <name xml:id="xxx">Laura Arévalo </name>
                <orgName>Colegio El Porvenir</orgName>
             </respStmt>
          </titleStmt>
@@ -2802,8 +2808,8 @@
             <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 31v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00067/full/pct:50/0/default.jpg" xml:id="BSBArab464_f031v"/>
-            <p style="title" resp="#">título de la imagen</p>
-            <p>texto</p>
+            <p style="title" resp="#">El encuentro de un ángel y el ser mitológico</p>
+            <p>Nos encontramos una imagen que se sitúa en la mitad baja de la página; que a su izquierda nos muestra un ángel con alas y un halo, donde predomina el color dorado, con detalles rojos y verdes en las alas. Su vestimenta es una túnica azul. En el lado derecho de la imagen nos encontramos con un ser mitológico de color blanco, con cuernos azules y alas azules rojas y doradas. Ambos presentan un movimiento de vuelo en el que mantienen una conversación.  </p> 
             <pb n="BSB Arab. 464, f. 32r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00068/full/pct:50/0/default.jpg" xml:id="BSBArab464_f032r"/>
             <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
@@ -2823,14 +2829,14 @@
             <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 35r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00074/full/pct:50/0/default.jpg" xml:id="BSBArab464_f035r"/>
-            <p style="title" resp="#">título de la imagen</p>
-            <p>texto</p>
+            <p style="title" resp="#">pegasos enfrentados</p>
+            <p>En la parte de abajo del folio. Ocupa un tercio del folio. Salen dos pegasos enfrentados, uno blanco de alas rojas y uno marrón con alas verdes. El marrón no está muy bien conservado, porque no aparece la imagen completa. Están situados dentro de un cuadrado rojo, con un título en rojo y un subtítulo en negro en la parte superior del cuadrado escrito con alfabeto árabe. </p>
             <pb n="BSB Arab. 464, f. 35v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00075/full/pct:50/0/default.jpg" xml:id="BSBArab464_f035v"/>
             <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 36r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00076/full/pct:50/0/default.jpg" xml:id="BSBArab464_f036r"/>
-            <p style="title" resp="#">título de la imagen</p>
-            <p>texto</p>
+            <p style="title" resp="#">Dos ángeles escribiendo</p>
+            <p>Dos ángeles policromados con alas y turbantes. Las alas de color rojo y verde y las túnicas de esos colores también. Están escribiendo en unos papiros con pluma. Están sentados uno enfrente del otro con las piernas cruzadas y descalzos.</p>
             <pb n="BSB Arab. 464, f. 36v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00077/full/pct:50/0/default.jpg" xml:id="BSBArab464_f036v"/>
             <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
