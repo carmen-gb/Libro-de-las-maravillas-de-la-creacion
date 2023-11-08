@@ -8,8 +8,9 @@
             <author xml:id="ZaQ">Zakariya al-Qazwini</author>
             <respStmt>
                <resp>Transcripción y anotación en TEI de </resp>
-               <name xml:id="PDG">Patricia Díaz Gallego</name><p>y</p>
+               <name xml:id="PDG">Patricia Díaz Gallego</name>
                <name xml:id="AGE">Arturo Guerrero Enterría</name>
+               <orgName>Proyecto EuQu (ILC, CSIC)</orgName>
             </respStmt>
             <respStmt>
                <resp>Descripción de las imágenes de </resp>
@@ -2621,1279 +2622,1279 @@
             <p style="title" resp="#CGB">Título del libro</p>
             <p resp="#CGB">Banderola con el título del libro en letras negras. Se utiliza el fondo para generar la decoración, consistente en ramas, en positivo, y su fondo negativo en tinta negra.</p>
             <pb n="BSB Arab. 464, f. 1v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00007/full/pct:50/0/default.jpg" xml:id="BSBArab464_f001v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 2r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00008/full/pct:50/0/default.jpg" xml:id="BSBArab464_f002r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 2v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00009/full/pct:50/0/default.jpg" xml:id="BSBArab464_f002v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 3r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00010/full/pct:50/0/default.jpg" xml:id="BSBArab464_f003r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 3v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00011/full/pct:50/0/default.jpg" xml:id="BSBArab464_f003v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 4r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00012/full/pct:50/0/default.jpg" xml:id="BSBArab464_f004r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 4v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00013/full/pct:50/0/default.jpg" xml:id="BSBArab464_f004v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 5r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00014/full/pct:50/0/default.jpg" xml:id="BSBArab464_f005r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 5v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00015/full/pct:50/0/default.jpg" xml:id="BSBArab464_f005v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 6r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00016/full/pct:50/0/default.jpg" xml:id="BSBArab464_f006r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 6v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00017/full/pct:50/0/default.jpg" xml:id="BSBArab464_f006v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 7r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00018/full/pct:50/0/default.jpg" xml:id="BSBArab464_f007r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 7v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00019/full/pct:50/0/default.jpg" xml:id="BSBArab464_f007v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 8r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00020/full/pct:50/0/default.jpg" xml:id="BSBArab464_f008r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 8v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00021/full/pct:50/0/default.jpg" xml:id="BSBArab464_f008v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 9r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00022/full/pct:50/0/default.jpg" xml:id="BSBArab464_f009r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 9v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00023/full/pct:50/0/default.jpg" xml:id="BSBArab464_f009v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 10r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00024/full/pct:50/0/default.jpg" xml:id="BSBArab464_f0010r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 10v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00025/full/pct:50/0/default.jpg" xml:id="BSBArab464_f010v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 11r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00026/full/pct:50/0/default.jpg" xml:id="BSBArab464_f011r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 11v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00027/full/pct:50/0/default.jpg" xml:id="BSBArab464_f011v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 12r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00028/full/pct:50/0/default.jpg" xml:id="BSBArab464_f012r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 12v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00029/full/pct:50/0/default.jpg" xml:id="BSBArab464_f012v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 13r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00030/full/pct:50/0/default.jpg" xml:id="BSBArab464_f013r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 13v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00031/full/pct:50/0/default.jpg" xml:id="BSBArab464_f013v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 14r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00032/full/pct:50/0/default.jpg" xml:id="BSBArab464_f014r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 14v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00033/full/pct:50/0/default.jpg" xml:id="BSBArab464_f014v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 15r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00034/full/pct:50/0/default.jpg" xml:id="BSBArab464_f015r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 15v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00035/full/pct:50/0/default.jpg" xml:id="BSBArab464_f015v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 16r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00036/full/pct:50/0/default.jpg" xml:id="BSBArab464_f016r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 16v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00037/full/pct:50/0/default.jpg" xml:id="BSBArab464_f016v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 17r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00038/full/pct:50/0/default.jpg" xml:id="BSBArab464_f017r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 17v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00039/full/pct:50/0/default.jpg" xml:id="BSBArab464_f017v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 18r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00040/full/pct:50/0/default.jpg" xml:id="BSBArab464_f018r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 18v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00041/full/pct:50/0/default.jpg" xml:id="BSBArab464_f018v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 19r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00042/full/pct:50/0/default.jpg" xml:id="BSBArab464_f019r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 19v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00043/full/pct:50/0/default.jpg" xml:id="BSBArab464_f019v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 20r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00044/full/pct:50/0/default.jpg" xml:id="BSBArab464_f020r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 20v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00045/full/pct:50/0/default.jpg" xml:id="BSBArab464_f020v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 21r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00046/full/pct:50/0/default.jpg" xml:id="BSBArab464_f021r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 21v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00047/full/pct:50/0/default.jpg" xml:id="BSBArab464_f021v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 22r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00048/full/pct:50/0/default.jpg" xml:id="BSBArab464_f022r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 22v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00049/full/pct:50/0/default.jpg" xml:id="BSBArab464_f022v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 23r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00050/full/pct:50/0/default.jpg" xml:id="BSBArab464_f023r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 23v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00051/full/pct:50/0/default.jpg" xml:id="BSBArab464_f023v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 24r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00052/full/pct:50/0/default.jpg" xml:id="BSBArab464_f024r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 24v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00053/full/pct:50/0/default.jpg" xml:id="BSBArab464_f024v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 25r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00054/full/pct:50/0/default.jpg" xml:id="BSBArab464_f025r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 25v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00055/full/pct:50/0/default.jpg" xml:id="BSBArab464_f025v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 26r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00056/full/pct:50/0/default.jpg" xml:id="BSBArab464_f026r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 26v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00057/full/pct:50/0/default.jpg" xml:id="BSBArab464_f026v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 27r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00058/full/pct:50/0/default.jpg" xml:id="BSBArab464_f027r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 27v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00059/full/pct:50/0/default.jpg" xml:id="BSBArab464_f027v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 28r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00060/full/pct:50/0/default.jpg" xml:id="BSBArab464_f028r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 28v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00061/full/pct:50/0/default.jpg" xml:id="BSBArab464_f028v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 29r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00062/full/pct:50/0/default.jpg" xml:id="BSBArab464_f029r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 29v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00063/full/pct:50/0/default.jpg" xml:id="BSBArab464_f029v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 30r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00064/full/pct:50/0/default.jpg" xml:id="BSBArab464_f030r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 30v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00065/full/pct:50/0/default.jpg" xml:id="BSBArab464_f030v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 31r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00066/full/pct:50/0/default.jpg" xml:id="BSBArab464_f031r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 31v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00067/full/pct:50/0/default.jpg" xml:id="BSBArab464_f031v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 32r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00068/full/pct:50/0/default.jpg" xml:id="BSBArab464_f032r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 32v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00069/full/pct:50/0/default.jpg" xml:id="BSBArab464_f032v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 33r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00070/full/pct:50/0/default.jpg" xml:id="BSBArab464_f033r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 33v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00071/full/pct:50/0/default.jpg" xml:id="BSBArab464_f033v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 34r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00072/full/pct:50/0/default.jpg" xml:id="BSBArab464_f034r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 34v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00073/full/pct:50/0/default.jpg" xml:id="BSBArab464_f034v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 35r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00074/full/pct:50/0/default.jpg" xml:id="BSBArab464_f035r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 35v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00075/full/pct:50/0/default.jpg" xml:id="BSBArab464_f035v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 36r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00076/full/pct:50/0/default.jpg" xml:id="BSBArab464_f036r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 36v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00077/full/pct:50/0/default.jpg" xml:id="BSBArab464_f036v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 37r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00078/full/pct:50/0/default.jpg" xml:id="BSBArab464_f037r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 37v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00079/full/pct:50/0/default.jpg" xml:id="BSBArab464_f037v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 38r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00080/full/pct:50/0/default.jpg" xml:id="BSBArab464_f038r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 38v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00081/full/pct:50/0/default.jpg" xml:id="BSBArab464_f038v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 39r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00082/full/pct:50/0/default.jpg" xml:id="BSBArab464_f039r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 39v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00083/full/pct:50/0/default.jpg" xml:id="BSBArab464_f039v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 40r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00084/full/pct:50/0/default.jpg" xml:id="BSBArab464_f040r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 40v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00085/full/pct:50/0/default.jpg" xml:id="BSBArab464_f040v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 41r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00086/full/pct:50/0/default.jpg" xml:id="BSBArab464_f041r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 41v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00087/full/pct:50/0/default.jpg" xml:id="BSBArab464_f041v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 42r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00088/full/pct:50/0/default.jpg" xml:id="BSBArab464_f042r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 42v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00089/full/pct:50/0/default.jpg" xml:id="BSBArab464_f042v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 43r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00090/full/pct:50/0/default.jpg" xml:id="BSBArab464_f043r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 43v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00091/full/pct:50/0/default.jpg" xml:id="BSBArab464_f043v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 44r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00092/full/pct:50/0/default.jpg" xml:id="BSBArab464_f044r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 44v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00093/full/pct:50/0/default.jpg" xml:id="BSBArab464_f044v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 45r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00094/full/pct:50/0/default.jpg" xml:id="BSBArab464_f045r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 45v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00095/full/pct:50/0/default.jpg" xml:id="BSBArab464_f045v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 46r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00096/full/pct:50/0/default.jpg" xml:id="BSBArab464_f046r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 46v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00097/full/pct:50/0/default.jpg" xml:id="BSBArab464_f046v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 47r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00098/full/pct:50/0/default.jpg" xml:id="BSBArab464_f047r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 47v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00099/full/pct:50/0/default.jpg" xml:id="BSBArab464_f047v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 48r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_000100/full/pct:50/0/default.jpg" xml:id="BSBArab464_f048r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 48v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00101/full/pct:50/0/default.jpg" xml:id="BSBArab464_f048v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 49r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00102/full/pct:50/0/default.jpg" xml:id="BSBArab464_f049r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 49v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00103/full/pct:50/0/default.jpg" xml:id="BSBArab464_f049v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 50r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00104/full/pct:50/0/default.jpg" xml:id="BSBArab464_f050r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 50v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00105/full/pct:50/0/default.jpg" xml:id="BSBArab464_f050v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 51r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00106/full/pct:50/0/default.jpg" xml:id="BSBArab464_f051r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 51v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00107/full/pct:50/0/default.jpg" xml:id="BSBArab464_f051v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 52r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00108/full/pct:50/0/default.jpg" xml:id="BSBArab464_f052r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 52v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00109/full/pct:50/0/default.jpg" xml:id="BSBArab464_f052v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 53r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00110/full/pct:50/0/default.jpg" xml:id="BSBArab464_f053r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 53v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00111/full/pct:50/0/default.jpg" xml:id="BSBArab464_f053v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 54r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00112/full/pct:50/0/default.jpg" xml:id="BSBArab464_f054r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 54v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00113/full/pct:50/0/default.jpg" xml:id="BSBArab464_f054v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 55r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00114/full/pct:50/0/default.jpg" xml:id="BSBArab464_f055r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 55v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00115/full/pct:50/0/default.jpg" xml:id="BSBArab464_f055v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 56r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00116/full/pct:50/0/default.jpg" xml:id="BSBArab464_f056r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 56v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00117/full/pct:50/0/default.jpg" xml:id="BSBArab464_f056v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 57r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00118/full/pct:50/0/default.jpg" xml:id="BSBArab464_f057r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 57v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00119/full/pct:50/0/default.jpg" xml:id="BSBArab464_f057v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 58r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00120/full/pct:50/0/default.jpg" xml:id="BSBArab464_f058r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 58v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00121/full/pct:50/0/default.jpg" xml:id="BSBArab464_f058v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 59r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00122/full/pct:50/0/default.jpg" xml:id="BSBArab464_f059r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 59v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00123/full/pct:50/0/default.jpg" xml:id="BSBArab464_f059v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 60r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00124/full/pct:50/0/default.jpg" xml:id="BSBArab464_f060r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 60v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00125/full/pct:50/0/default.jpg" xml:id="BSBArab464_f060v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 61r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00126/full/pct:50/0/default.jpg" xml:id="BSBArab464_f061r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 61v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00127/full/pct:50/0/default.jpg" xml:id="BSBArab464_f061v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 62r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00128/full/pct:50/0/default.jpg" xml:id="BSBArab464_f062r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 62v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00129/full/pct:50/0/default.jpg" xml:id="BSBArab464_f062v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 63r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00130/full/pct:50/0/default.jpg" xml:id="BSBArab464_f063r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 63v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00131/full/pct:50/0/default.jpg" xml:id="BSBArab464_f063v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 64r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00132/full/pct:50/0/default.jpg" xml:id="BSBArab464_f064r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 64v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00133/full/pct:50/0/default.jpg" xml:id="BSBArab464_f064v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 65r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00134/full/pct:50/0/default.jpg" xml:id="BSBArab464_f065r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 65v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00135/full/pct:50/0/default.jpg" xml:id="BSBArab464_f065v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 66r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00136/full/pct:50/0/default.jpg" xml:id="BSBArab464_f066r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 66v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00137/full/pct:50/0/default.jpg" xml:id="BSBArab464_f066v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 67r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00138/full/pct:50/0/default.jpg" xml:id="BSBArab464_f067r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 67v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00139/full/pct:50/0/default.jpg" xml:id="BSBArab464_f067v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 68r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00140/full/pct:50/0/default.jpg" xml:id="BSBArab464_f068r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 68v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00141/full/pct:50/0/default.jpg" xml:id="BSBArab464_f068v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 69r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00142/full/pct:50/0/default.jpg" xml:id="BSBArab464_f069r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 69v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00143/full/pct:50/0/default.jpg" xml:id="BSBArab464_f069v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 70r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00144/full/pct:50/0/default.jpg" xml:id="BSBArab464_f070r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 70v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00145/full/pct:50/0/default.jpg" xml:id="BSBArab464_f070v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 71r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00146/full/pct:50/0/default.jpg" xml:id="BSBArab464_f071r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 71v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00147/full/pct:50/0/default.jpg" xml:id="BSBArab464_f071v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 72r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00148/full/pct:50/0/default.jpg" xml:id="BSBArab464_f072r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 72v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00149/full/pct:50/0/default.jpg" xml:id="BSBArab464_f072v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 73r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00150/full/pct:50/0/default.jpg" xml:id="BSBArab464_f073r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 73v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00151/full/pct:50/0/default.jpg" xml:id="BSBArab464_f073v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 74r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00152/full/pct:50/0/default.jpg" xml:id="BSBArab464_f074r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 74v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00153/full/pct:50/0/default.jpg" xml:id="BSBArab464_f074v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 75r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00154/full/pct:50/0/default.jpg" xml:id="BSBArab464_f075r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 75v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00155/full/pct:50/0/default.jpg" xml:id="BSBArab464_f075v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 76r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00156/full/pct:50/0/default.jpg" xml:id="BSBArab464_f076r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 76v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00157/full/pct:50/0/default.jpg" xml:id="BSBArab464_f076v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 77r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00158/full/pct:50/0/default.jpg" xml:id="BSBArab464_f077r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 77v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00159/full/pct:50/0/default.jpg" xml:id="BSBArab464_f077v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 78r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00160/full/pct:50/0/default.jpg" xml:id="BSBArab464_f078r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 78v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00161/full/pct:50/0/default.jpg" xml:id="BSBArab464_f078v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 79r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00162/full/pct:50/0/default.jpg" xml:id="BSBArab464_f079r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 79v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00163/full/pct:50/0/default.jpg" xml:id="BSBArab464_f079v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 80r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00164/full/pct:50/0/default.jpg" xml:id="BSBArab464_f080r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 80v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00165/full/pct:50/0/default.jpg" xml:id="BSBArab464_f080v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 81r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00166/full/pct:50/0/default.jpg" xml:id="BSBArab464_f081r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 81v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00167/full/pct:50/0/default.jpg" xml:id="BSBArab464_f081v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 82r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00168/full/pct:50/0/default.jpg" xml:id="BSBArab464_f082r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 82v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00169/full/pct:50/0/default.jpg" xml:id="BSBArab464_f082v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 83r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00170/full/pct:50/0/default.jpg" xml:id="BSBArab464_f083r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 83v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00171/full/pct:50/0/default.jpg" xml:id="BSBArab464_f083v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 84r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00172/full/pct:50/0/default.jpg" xml:id="BSBArab464_f084r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 84v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00173/full/pct:50/0/default.jpg" xml:id="BSBArab464_f084v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 85r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00174/full/pct:50/0/default.jpg" xml:id="BSBArab464_f085r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 85v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00175/full/pct:50/0/default.jpg" xml:id="BSBArab464_f085v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 86r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00176/full/pct:50/0/default.jpg" xml:id="BSBArab464_f086r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 86v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00177/full/pct:50/0/default.jpg" xml:id="BSBArab464_f086v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 87r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00178/full/pct:50/0/default.jpg" xml:id="BSBArab464_f087r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 87v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00179/full/pct:50/0/default.jpg" xml:id="BSBArab464_f087v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 88r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00180/full/pct:50/0/default.jpg" xml:id="BSBArab464_f088r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 88v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00181/full/pct:50/0/default.jpg" xml:id="BSBArab464_f088v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 89r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00182/full/pct:50/0/default.jpg" xml:id="BSBArab464_f089r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 89v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00183/full/pct:50/0/default.jpg" xml:id="BSBArab464_f089v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 90r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00184/full/pct:50/0/default.jpg" xml:id="BSBArab464_f090r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 90v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00185/full/pct:50/0/default.jpg" xml:id="BSBArab464_f090v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 91r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00186/full/pct:50/0/default.jpg" xml:id="BSBArab464_f091r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 91v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00187/full/pct:50/0/default.jpg" xml:id="BSBArab464_f091v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 92r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00188/full/pct:50/0/default.jpg" xml:id="BSBArab464_f092r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 92v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00189/full/pct:50/0/default.jpg" xml:id="BSBArab464_f092v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 93r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00190/full/pct:50/0/default.jpg" xml:id="BSBArab464_f093r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 93v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00191/full/pct:50/0/default.jpg" xml:id="BSBArab464_f093v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 94r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00192/full/pct:50/0/default.jpg" xml:id="BSBArab464_f094r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 94v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00193/full/pct:50/0/default.jpg" xml:id="BSBArab464_f094v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 95r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00194/full/pct:50/0/default.jpg" xml:id="BSBArab464_f095r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 95v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00195/full/pct:50/0/default.jpg" xml:id="BSBArab464_f095v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 96r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00196/full/pct:50/0/default.jpg" xml:id="BSBArab464_f096r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 96v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00197/full/pct:50/0/default.jpg" xml:id="BSBArab464_f096v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 97r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00198/full/pct:50/0/default.jpg" xml:id="BSBArab464_f097r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 97v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00199/full/pct:50/0/default.jpg" xml:id="BSBArab464_f097v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 98r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00200/full/pct:50/0/default.jpg" xml:id="BSBArab464_f098r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 98v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00201/full/pct:50/0/default.jpg" xml:id="BSBArab464_f098v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 99r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00202/full/pct:50/0/default.jpg" xml:id="BSBArab464_f099r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 99v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00203/full/pct:50/0/default.jpg" xml:id="BSBArab464_f099v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 100r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00204/full/pct:50/0/default.jpg" xml:id="BSBArab464_f100r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 100v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00205/full/pct:50/0/default.jpg" xml:id="BSBArab464_f100v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 101r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00206/full/pct:50/0/default.jpg" xml:id="BSBArab464_f101r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 101v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00207/full/pct:50/0/default.jpg" xml:id="BSBArab464_f101v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 102r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00208/full/pct:50/0/default.jpg" xml:id="BSBArab464_f102r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 102v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00209/full/pct:50/0/default.jpg" xml:id="BSBArab464_f102v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 103r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00210/full/pct:50/0/default.jpg" xml:id="BSBArab464_f103r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 103v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00211/full/pct:50/0/default.jpg" xml:id="BSBArab464_f103v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 104r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00212/full/pct:50/0/default.jpg" xml:id="BSBArab464_f104r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 104v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00213/full/pct:50/0/default.jpg" xml:id="BSBArab464_f104v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 105r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00214/full/pct:50/0/default.jpg" xml:id="BSBArab464_f105r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 105v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00215/full/pct:50/0/default.jpg" xml:id="BSBArab464_f105v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 106r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00216/full/pct:50/0/default.jpg" xml:id="BSBArab464_f106r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 106v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00217/full/pct:50/0/default.jpg" xml:id="BSBArab464_f106v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 107r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00218/full/pct:50/0/default.jpg" xml:id="BSBArab464_f107r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 107v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00219/full/pct:50/0/default.jpg" xml:id="BSBArab464_f107v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 108r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00220/full/pct:50/0/default.jpg" xml:id="BSBArab464_f108r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 108v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00221/full/pct:50/0/default.jpg" xml:id="BSBArab464_f108v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 109r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00222/full/pct:50/0/default.jpg" xml:id="BSBArab464_f109r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 109v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00223/full/pct:50/0/default.jpg" xml:id="BSBArab464_f109v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 110r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00224/full/pct:50/0/default.jpg" xml:id="BSBArab464_f1010r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 110v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00225/full/pct:50/0/default.jpg" xml:id="BSBArab464_f110v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 111r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00226/full/pct:50/0/default.jpg" xml:id="BSBArab464_f111r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 111v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00227/full/pct:50/0/default.jpg" xml:id="BSBArab464_f111v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 112r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00228/full/pct:50/0/default.jpg" xml:id="BSBArab464_f112r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 112v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00229/full/pct:50/0/default.jpg" xml:id="BSBArab464_f112v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 113r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00230/full/pct:50/0/default.jpg" xml:id="BSBArab464_f113r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 113v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00231/full/pct:50/0/default.jpg" xml:id="BSBArab464_f113v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 114r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00232/full/pct:50/0/default.jpg" xml:id="BSBArab464_f114r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 114v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00233/full/pct:50/0/default.jpg" xml:id="BSBArab464_f114v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 115r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00234/full/pct:50/0/default.jpg" xml:id="BSBArab464_f115r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 115v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00235/full/pct:50/0/default.jpg" xml:id="BSBArab464_f115v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 116r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00236/full/pct:50/0/default.jpg" xml:id="BSBArab464_f116r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 116v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00237/full/pct:50/0/default.jpg" xml:id="BSBArab464_f116v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 117r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00238/full/pct:50/0/default.jpg" xml:id="BSBArab464_f117r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 117v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00239/full/pct:50/0/default.jpg" xml:id="BSBArab464_f117v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 118r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00240/full/pct:50/0/default.jpg" xml:id="BSBArab464_f118r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 118v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00241/full/pct:50/0/default.jpg" xml:id="BSBArab464_f118v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 119r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00242/full/pct:50/0/default.jpg" xml:id="BSBArab464_f119r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 119v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00243/full/pct:50/0/default.jpg" xml:id="BSBArab464_f119v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 120r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00244/full/pct:50/0/default.jpg" xml:id="BSBArab464_f120r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 120v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00245/full/pct:50/0/default.jpg" xml:id="BSBArab464_f120v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 121r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00246/full/pct:50/0/default.jpg" xml:id="BSBArab464_f121r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 121v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00247/full/pct:50/0/default.jpg" xml:id="BSBArab464_f121v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 122r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00248/full/pct:50/0/default.jpg" xml:id="BSBArab464_f122r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 122v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00249/full/pct:50/0/default.jpg" xml:id="BSBArab464_f122v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 123r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00250/full/pct:50/0/default.jpg" xml:id="BSBArab464_f123r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 123v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00251/full/pct:50/0/default.jpg" xml:id="BSBArab464_f123v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 124r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00252/full/pct:50/0/default.jpg" xml:id="BSBArab464_f124r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 124v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00253/full/pct:50/0/default.jpg" xml:id="BSBArab464_f124v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 125r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00254/full/pct:50/0/default.jpg" xml:id="BSBArab464_f125r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 125v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00255/full/pct:50/0/default.jpg" xml:id="BSBArab464_f125v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 126r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00256/full/pct:50/0/default.jpg" xml:id="BSBArab464_f126r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 126v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00257/full/pct:50/0/default.jpg" xml:id="BSBArab464_f126v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 127r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00258/full/pct:50/0/default.jpg" xml:id="BSBArab464_f127r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 127v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00259/full/pct:50/0/default.jpg" xml:id="BSBArab464_f127v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 128r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00260/full/pct:50/0/default.jpg" xml:id="BSBArab464_f128r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 128v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00261/full/pct:50/0/default.jpg" xml:id="BSBArab464_f128v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 129r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00262/full/pct:50/0/default.jpg" xml:id="BSBArab464_f129r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 129v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00263/full/pct:50/0/default.jpg" xml:id="BSBArab464_f129v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 130r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00264/full/pct:50/0/default.jpg" xml:id="BSBArab464_f130r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 130v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00265/full/pct:50/0/default.jpg" xml:id="BSBArab464_f130v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 131r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00266/full/pct:50/0/default.jpg" xml:id="BSBArab464_f131r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 131v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00267/full/pct:50/0/default.jpg" xml:id="BSBArab464_f131v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 132r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00268/full/pct:50/0/default.jpg" xml:id="BSBArab464_f132r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 132v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00269/full/pct:50/0/default.jpg" xml:id="BSBArab464_f132v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 133r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00270/full/pct:50/0/default.jpg" xml:id="BSBArab464_f133r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 133v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00271/full/pct:50/0/default.jpg" xml:id="BSBArab464_f133v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 134r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00272/full/pct:50/0/default.jpg" xml:id="BSBArab464_f134r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 134v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00273/full/pct:50/0/default.jpg" xml:id="BSBArab464_f134v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 135r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00274/full/pct:50/0/default.jpg" xml:id="BSBArab464_f135r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 135v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00275/full/pct:50/0/default.jpg" xml:id="BSBArab464_f135v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 136r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00276/full/pct:50/0/default.jpg" xml:id="BSBArab464_f136r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 136v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00277/full/pct:50/0/default.jpg" xml:id="BSBArab464_f136v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 137r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00278/full/pct:50/0/default.jpg" xml:id="BSBArab464_f137r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 137v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00279/full/pct:50/0/default.jpg" xml:id="BSBArab464_f137v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 138r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00280/full/pct:50/0/default.jpg" xml:id="BSBArab464_f138r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 138v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00281/full/pct:50/0/default.jpg" xml:id="BSBArab464_f138v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 139r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00282/full/pct:50/0/default.jpg" xml:id="BSBArab464_f139r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 139v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00283/full/pct:50/0/default.jpg" xml:id="BSBArab464_f139v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 140r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00284/full/pct:50/0/default.jpg" xml:id="BSBArab464_f140r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 140v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00285/full/pct:50/0/default.jpg" xml:id="BSBArab464_f140v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 141r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00286/full/pct:50/0/default.jpg" xml:id="BSBArab464_f141r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 141v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00287/full/pct:50/0/default.jpg" xml:id="BSBArab464_f141v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 142r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00288/full/pct:50/0/default.jpg" xml:id="BSBArab464_f142r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 142v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00289/full/pct:50/0/default.jpg" xml:id="BSBArab464_f142v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 143r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00290/full/pct:50/0/default.jpg" xml:id="BSBArab464_f143r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 143v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00291/full/pct:50/0/default.jpg" xml:id="BSBArab464_f143v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 144r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00292/full/pct:50/0/default.jpg" xml:id="BSBArab464_f144r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 144v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00293/full/pct:50/0/default.jpg" xml:id="BSBArab464_f144v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 144rb" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00294/full/pct:50/0/default.jpg" xml:id="BSBArab464_f144rb"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 144vb" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00295/full/pct:50/0/default.jpg" xml:id="BSBArab464_f144vb"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 145r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00296/full/pct:50/0/default.jpg" xml:id="BSBArab464_f145r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 145v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00297/full/pct:50/0/default.jpg" xml:id="BSBArab464_f145v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 146r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00298/full/pct:50/0/default.jpg" xml:id="BSBArab464_f146r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 146v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00299/full/pct:50/0/default.jpg" xml:id="BSBArab464_f146v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 147r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00300/full/pct:50/0/default.jpg" xml:id="BSBArab464_f147r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 147v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00301/full/pct:50/0/default.jpg" xml:id="BSBArab464_f147v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 148r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00302/full/pct:50/0/default.jpg" xml:id="BSBArab464_f148r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 148v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00303/full/pct:50/0/default.jpg" xml:id="BSBArab464_f148v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 149r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00304/full/pct:50/0/default.jpg" xml:id="BSBArab464_f149r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 149v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00305/full/pct:50/0/default.jpg" xml:id="BSBArab464_f149v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 150r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00306/full/pct:50/0/default.jpg" xml:id="BSBArab464_f150r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 150v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00307/full/pct:50/0/default.jpg" xml:id="BSBArab464_f150v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 151r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00308/full/pct:50/0/default.jpg" xml:id="BSBArab464_f151r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 151v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00309/full/pct:50/0/default.jpg" xml:id="BSBArab464_f151v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 152r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00310/full/pct:50/0/default.jpg" xml:id="BSBArab464_f152r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 152v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00311/full/pct:50/0/default.jpg" xml:id="BSBArab464_f152v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 153r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00312/full/pct:50/0/default.jpg" xml:id="BSBArab464_f153r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 153v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00313/full/pct:50/0/default.jpg" xml:id="BSBArab464_f153v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 154r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00314/full/pct:50/0/default.jpg" xml:id="BSBArab464_f154r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 154v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00315/full/pct:50/0/default.jpg" xml:id="BSBArab464_f154v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 155r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00316/full/pct:50/0/default.jpg" xml:id="BSBArab464_f155r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 155v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00317/full/pct:50/0/default.jpg" xml:id="BSBArab464_f155v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 156r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00318/full/pct:50/0/default.jpg" xml:id="BSBArab464_f156r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 156v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00319/full/pct:50/0/default.jpg" xml:id="BSBArab464_f156v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 157r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00320/full/pct:50/0/default.jpg" xml:id="BSBArab464_f157r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 157v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00321/full/pct:50/0/default.jpg" xml:id="BSBArab464_f157v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 158r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00322/full/pct:50/0/default.jpg" xml:id="BSBArab464_f158r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 158v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00323/full/pct:50/0/default.jpg" xml:id="BSBArab464_f158v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 159r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00324/full/pct:50/0/default.jpg" xml:id="BSBArab464_f159r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 159v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00325/full/pct:50/0/default.jpg" xml:id="BSBArab464_f159v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 160r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00326/full/pct:50/0/default.jpg" xml:id="BSBArab464_f160r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 160v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00327/full/pct:50/0/default.jpg" xml:id="BSBArab464_f160v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 161r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00328/full/pct:50/0/default.jpg" xml:id="BSBArab464_f161r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 161v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00329/full/pct:50/0/default.jpg" xml:id="BSBArab464_f161v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 162r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00330/full/pct:50/0/default.jpg" xml:id="BSBArab464_f162r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 162v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00331/full/pct:50/0/default.jpg" xml:id="BSBArab464_f162v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 163r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00332/full/pct:50/0/default.jpg" xml:id="BSBArab464_f163r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 163v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00333/full/pct:50/0/default.jpg" xml:id="BSBArab464_f163v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 164r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00334/full/pct:50/0/default.jpg" xml:id="BSBArab464_f164r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 164v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00335/full/pct:50/0/default.jpg" xml:id="BSBArab464_f164v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 165r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00336/full/pct:50/0/default.jpg" xml:id="BSBArab464_f165r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 165v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00337/full/pct:50/0/default.jpg" xml:id="BSBArab464_f165v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 166r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00338/full/pct:50/0/default.jpg" xml:id="BSBArab464_f166r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 166v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00339/full/pct:50/0/default.jpg" xml:id="BSBArab464_f166v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 167r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00340/full/pct:50/0/default.jpg" xml:id="BSBArab464_f167r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 167v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00341/full/pct:50/0/default.jpg" xml:id="BSBArab464_f167v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 168r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00342/full/pct:50/0/default.jpg" xml:id="BSBArab464_f168r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 168v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00343/full/pct:50/0/default.jpg" xml:id="BSBArab464_f168v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 169r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00344/full/pct:50/0/default.jpg" xml:id="BSBArab464_f169r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 169v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00345/full/pct:50/0/default.jpg" xml:id="BSBArab464_f169v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 170r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00346/full/pct:50/0/default.jpg" xml:id="BSBArab464_f170r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 170v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00347/full/pct:50/0/default.jpg" xml:id="BSBArab464_f170v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 171r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00348/full/pct:50/0/default.jpg" xml:id="BSBArab464_f171r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 171v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00349/full/pct:50/0/default.jpg" xml:id="BSBArab464_f171v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 172r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00350/full/pct:50/0/default.jpg" xml:id="BSBArab464_f172r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 172v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00351/full/pct:50/0/default.jpg" xml:id="BSBArab464_f172v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 173r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00352/full/pct:50/0/default.jpg" xml:id="BSBArab464_f173r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 173v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00353/full/pct:50/0/default.jpg" xml:id="BSBArab464_f173v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 174r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00354/full/pct:50/0/default.jpg" xml:id="BSBArab464_f174r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 174v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00355/full/pct:50/0/default.jpg" xml:id="BSBArab464_f174v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 175r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00356/full/pct:50/0/default.jpg" xml:id="BSBArab464_f175r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 175v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00357/full/pct:50/0/default.jpg" xml:id="BSBArab464_f175v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 176r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00358/full/pct:50/0/default.jpg" xml:id="BSBArab464_f176r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 176v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00359/full/pct:50/0/default.jpg" xml:id="BSBArab464_f176v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 177r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00360/full/pct:50/0/default.jpg" xml:id="BSBArab464_f177r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 177v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00361/full/pct:50/0/default.jpg" xml:id="BSBArab464_f177v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 178r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00362/full/pct:50/0/default.jpg" xml:id="BSBArab464_f178r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 178v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00363/full/pct:50/0/default.jpg" xml:id="BSBArab464_f178v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 179r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00364/full/pct:50/0/default.jpg" xml:id="BSBArab464_f179r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 179v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00365/full/pct:50/0/default.jpg" xml:id="BSBArab464_f179v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 180r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00366/full/pct:50/0/default.jpg" xml:id="BSBArab464_f180r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 180v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00367/full/pct:50/0/default.jpg" xml:id="BSBArab464_f180v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 181r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00368/full/pct:50/0/default.jpg" xml:id="BSBArab464_f181r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 181v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00369/full/pct:50/0/default.jpg" xml:id="BSBArab464_f181v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 182r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00370/full/pct:50/0/default.jpg" xml:id="BSBArab464_f182r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 182v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00371/full/pct:50/0/default.jpg" xml:id="BSBArab464_f182v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 183r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00372/full/pct:50/0/default.jpg" xml:id="BSBArab464_f183r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 183v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00373/full/pct:50/0/default.jpg" xml:id="BSBArab464_f183v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 184r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00374/full/pct:50/0/default.jpg" xml:id="BSBArab464_f184r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 184v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00375/full/pct:50/0/default.jpg" xml:id="BSBArab464_f184v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 185r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00376/full/pct:50/0/default.jpg" xml:id="BSBArab464_f185r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 185v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00377/full/pct:50/0/default.jpg" xml:id="BSBArab464_f185v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 186r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00378/full/pct:50/0/default.jpg" xml:id="BSBArab464_f186r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 186v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00379/full/pct:50/0/default.jpg" xml:id="BSBArab464_f186v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 187r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00380/full/pct:50/0/default.jpg" xml:id="BSBArab464_f187r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 187v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00381/full/pct:50/0/default.jpg" xml:id="BSBArab464_f187v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 188r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00382/full/pct:50/0/default.jpg" xml:id="BSBArab464_f188r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 188v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00383/full/pct:50/0/default.jpg" xml:id="BSBArab464_f188v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 189r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00384/full/pct:50/0/default.jpg" xml:id="BSBArab464_f189r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 189v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00385/full/pct:50/0/default.jpg" xml:id="BSBArab464_f189v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 190r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00386/full/pct:50/0/default.jpg" xml:id="BSBArab464_f190r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 190v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00387/full/pct:50/0/default.jpg" xml:id="BSBArab464_f190v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 191r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00388/full/pct:50/0/default.jpg" xml:id="BSBArab464_f191r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 191v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00389/full/pct:50/0/default.jpg" xml:id="BSBArab464_f191v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 192r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00390/full/pct:50/0/default.jpg" xml:id="BSBArab464_f192r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 192v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00391/full/pct:50/0/default.jpg" xml:id="BSBArab464_f192v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 193r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00392/full/pct:50/0/default.jpg" xml:id="BSBArab464_f193r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 193v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00393/full/pct:50/0/default.jpg" xml:id="BSBArab464_f193v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 194r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00394/full/pct:50/0/default.jpg" xml:id="BSBArab464_f194r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 194v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00395/full/pct:50/0/default.jpg" xml:id="BSBArab464_f194v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 195r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00396/full/pct:50/0/default.jpg" xml:id="BSBArab464_f195r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 195v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00397/full/pct:50/0/default.jpg" xml:id="BSBArab464_f195v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 196r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00398/full/pct:50/0/default.jpg" xml:id="BSBArab464_f196r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 196v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00399/full/pct:50/0/default.jpg" xml:id="BSBArab464_f196v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 197r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00400/full/pct:50/0/default.jpg" xml:id="BSBArab464_f197r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 197v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00401/full/pct:50/0/default.jpg" xml:id="BSBArab464_f197v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 198r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00402/full/pct:50/0/default.jpg" xml:id="BSBArab464_f198r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 198v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00403/full/pct:50/0/default.jpg" xml:id="BSBArab464_f198v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 199r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00404/full/pct:50/0/default.jpg" xml:id="BSBArab464_f199r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 199v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00405/full/pct:50/0/default.jpg" xml:id="BSBArab464_f199v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 200r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00406/full/pct:50/0/default.jpg" xml:id="BSBArab464_f200r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 200v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00407/full/pct:50/0/default.jpg" xml:id="BSBArab464_f200v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 201r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00408/full/pct:50/0/default.jpg" xml:id="BSBArab464_f201r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 201v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00409/full/pct:50/0/default.jpg" xml:id="BSBArab464_f201v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 202r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00410/full/pct:50/0/default.jpg" xml:id="BSBArab464_f202r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 202v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00411/full/pct:50/0/default.jpg" xml:id="BSBArab464_f202v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 203r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00412/full/pct:50/0/default.jpg" xml:id="BSBArab464_f203r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 203v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00413/full/pct:50/0/default.jpg" xml:id="BSBArab464_f203v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 204r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00414/full/pct:50/0/default.jpg" xml:id="BSBArab464_f204r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 204v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00415/full/pct:50/0/default.jpg" xml:id="BSBArab464_f204v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 205r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00416/full/pct:50/0/default.jpg" xml:id="BSBArab464_f205r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 205v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00417/full/pct:50/0/default.jpg" xml:id="BSBArab464_f205v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 206r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00418/full/pct:50/0/default.jpg" xml:id="BSBArab464_f206r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 206v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00419/full/pct:50/0/default.jpg" xml:id="BSBArab464_f206v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 207r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00420/full/pct:50/0/default.jpg" xml:id="BSBArab464_f207r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 207v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00421/full/pct:50/0/default.jpg" xml:id="BSBArab464_f207v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 208r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00422/full/pct:50/0/default.jpg" xml:id="BSBArab464_f208r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 208v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00423/full/pct:50/0/default.jpg" xml:id="BSBArab464_f208v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 209r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00424/full/pct:50/0/default.jpg" xml:id="BSBArab464_f209r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 209v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00425/full/pct:50/0/default.jpg" xml:id="BSBArab464_f209v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 210r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00426/full/pct:50/0/default.jpg" xml:id="BSBArab464_f210r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 210v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00427/full/pct:50/0/default.jpg" xml:id="BSBArab464_f210v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 211r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00428/full/pct:50/0/default.jpg" xml:id="BSBArab464_f211r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 211v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00429/full/pct:50/0/default.jpg" xml:id="BSBArab464_f211v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 212r" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00430/full/pct:50/0/default.jpg" xml:id="BSBArab464_f212r"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
             <pb n="BSB Arab. 464, f. 212v" facs="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00045957_00431/full/pct:50/0/default.jpg" xml:id="BSBArab464_f212v"/>
-            <p style="title">título de la imagen</p>
+            <p style="title" resp="#">título de la imagen</p>
             <p>texto</p>
          </div>
       </body>
